@@ -1,0 +1,8 @@
+{
+  "name": "chen_shop",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
